@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achila Dilshan Abeysinghe!</h1>
-<h3 align="center">🎓 Third-Year Undergraduate | 📍 University of Kelaniya (Specializing in IT with a focus on Software Engineering)</h3>
+<h3 align="center">🎓 Third-Year Undergraduate | Specializing in IT with a focus on Software Engineering</h3>
 
 - 🌱 I’m currently learning **Cloud-native app development, MERN stack, and advanced iOS development.**
 
