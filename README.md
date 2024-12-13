@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achila Dilshan Abeysinghe!</h1>
 <h3 align="center">🎓 Third-Year Undergraduate | Specializing in IT with a focus on Software Engineering</h3>
 
-- 🌱 I’m currently learning **Cloud-native app development, MERN stack, and advanced iOS development.**
+- 🌱 I’m currently learning **Cloud-native app development, MERN stack, and iOS development.**
 
 - 💡 I have a keen interest in **AI, DevOps and Mobile App Development**
 
