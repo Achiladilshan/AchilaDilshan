@@ -5,7 +5,7 @@
 
 - 💡 I have a keen interest in **AI, DevOps and Mobile App Development**
 
-- 📫 How to reach me **achila@zylosphere.com**
+- 📫 Reach me **achila877@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
